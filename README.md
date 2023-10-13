@@ -9,8 +9,6 @@ I'm Boris, Frontend developer from St Petersburg
 - <a href="https://t.me/blasterblast" target="blank">Telegram</a>
 - <a href="shevnin.boris2@gmail.com" target="blank">E-mail</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=blastuha&show_icons=true&theme=transparent)
-
 ### Technologies:
 
 <div align="center">
